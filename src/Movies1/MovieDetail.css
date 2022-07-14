@@ -1,0 +1,7 @@
+.paraStyle {
+  height: 100vh;
+  background: #000000;
+  color: white;
+  display: flex;
+  align-items: center;
+}
